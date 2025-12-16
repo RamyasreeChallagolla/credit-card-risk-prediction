@@ -1,4 +1,4 @@
-# credit-card-risk-prediction
+
 # Credit Card Risk Prediction
 
 ## 📌 Project Overview
